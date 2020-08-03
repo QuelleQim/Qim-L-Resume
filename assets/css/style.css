@@ -69,7 +69,7 @@ h1,h2,h3,h4 {
 .history-heading,
 .section-heading {
     font-family: "Exo", sans-serif;
-    font-family: 300;
+    font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
 }
