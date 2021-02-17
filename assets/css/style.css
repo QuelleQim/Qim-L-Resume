@@ -266,6 +266,10 @@ footer {
     width: 60%;
 }
 
+#project-info-item {
+    width: 85%;
+}
+
 /* ---------------------------------------------------Skills */
 
 .progress {
