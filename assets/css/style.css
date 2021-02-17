@@ -338,3 +338,10 @@ footer {
 .history-items {
     margin-bottom: 30px;
 }
+
+
+/* ---------------------------------------------------Contact */
+
+.contact-item-div {
+    background-color: #3498db;
+}
