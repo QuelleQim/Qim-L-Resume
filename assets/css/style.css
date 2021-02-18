@@ -233,6 +233,11 @@ footer {
 
 /* ---------------------------------------------------Personal Info */
 
+.personal-info-div {
+    background-color: #e67e22;
+    color: #fafafa;
+}
+
 .personal-info-item {
     margin-bottom: 20px;
     display: block;
