@@ -86,7 +86,7 @@ header {
 }
 
 .logo {
-    background: url("../images/rosie.png");
+    background: url("../images/qim-img.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -233,6 +233,11 @@ footer {
 
 /* ---------------------------------------------------Personal Info */
 
+.personal-info-div {
+    background-color: #e67e22;
+    color: #fafafa;
+}
+
 .personal-info-item {
     margin-bottom: 20px;
     display: block;
@@ -266,6 +271,10 @@ footer {
     width: 60%;
 }
 
+#project-info-item {
+    width: 85%;
+}
+
 /* ---------------------------------------------------Skills */
 
 .progress {
@@ -280,7 +289,7 @@ footer {
     font-weight: 400;
     padding: 3px 30px 2px 10px;
     color: #fafafa;
-    background-color: rgba(25, 25, 25, 0.2);
+    /* background-color: rgba(25, 25, 25, 0.2); */
 }
 
 .progress-section {
@@ -333,4 +342,20 @@ footer {
 
 .history-items {
     margin-bottom: 30px;
+}
+
+
+/* ---------------------------------------------------Contact */
+
+.contact-item-div {
+    background-color: #3498db;
+    color: #fafafa;
+}
+
+
+/* ---------------------------------------------------Projects */
+
+.projects-info-div {
+    background-color: #525252;
+    color: #fafafa;
 }
